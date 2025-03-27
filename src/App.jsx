@@ -1,5 +1,4 @@
 import React from "react";
-import logo from '../src/assets/vector.svg'
 
 function App() {
   return (
